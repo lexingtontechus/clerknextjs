@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgba(28, 25, 23, var(--tw-bg-opacity)); /*stone-900*/
+}
+/*41, 37, 36 stone-800*/
+
+.bg-lxtgroup {
+  background-color: rgba(68, 64, 60, var(--tw-bg-opacity));
+}
